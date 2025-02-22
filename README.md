@@ -1,4 +1,4 @@
-# Hey 👋! Nice to have you here, lets waste some of time together 👀
+# Hey 👋! Nice to have you here, lets waste some time together 👀
 
 ## _I am Abdullah Abro_ 🧑‍🎓, _Software Engineer From Karachi, Pakistan_ <img src="https://static3.depositphotos.com/1000209/137/v/450/depositphotos_1378146-stock-illustration-pakistan-flag.jpg" width="25"/>
 
