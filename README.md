@@ -11,7 +11,7 @@
 
 - Software-Engineer (IC4) -> <a href="https://seed.im/"><img src="https://bluefin.io/home/logo.svg?nocache=1" width="70" style="vertical-align:middle;"/></a>
 
-- Contributing In building high-end product -> <a href="https://firefly.exchange"><img src="https://bluefin.io/images/brands/bluefin-4.svg" width="20" style="vertical-align:middle;"/></a>  decentralized Digital Assets Exchange. Give it a try!
+- Contributing In building high-end product -> <a href="https://trade.bluefin.io"><img src="https://bluefin.io/images/brands/bluefin-4.svg" width="20" style="vertical-align:middle;"/></a>  decentralized Digital Assets Exchange. Give it a try!
 
 <br>
 
@@ -60,7 +60,7 @@
 
 
 ![GIT](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![GITHUB](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GITHUB ACTIONS](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)
 ![K8s](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![TERRAFORM](https://img.shields.io/badge/terraform%20-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white)
