@@ -3,13 +3,13 @@
 ## _I am Abdullah Abro_ 🧑‍🎓, _Software Engineer From Karachi, Pakistan_ <img src="https://static3.depositphotos.com/1000209/137/v/450/depositphotos_1378146-stock-illustration-pakistan-flag.jpg" width="25"/>
 
 
-### **Past**
-- Bachelors In Computer Science from [FAST-NUCES](https://www.nu.edu.pk/) Karachi.
+### **Previously**
+- Did bachelors in Computer Science from [FAST-NUCES](https://www.nu.edu.pk/) Karachi.
 - Worked As **Backend Engineer** Intern with various initial-stage Startups teams.
 
-### **Current**
+### **Currently**
 
-- Software-Engineer (IC4) -> <a href="https://seed.im/"><img src="https://bluefin.io/home/logo.svg?nocache=1" width="70" style="vertical-align:middle;"/></a>
+- Software-Engineer (IC4) -> <a href="https://bluefin.io/"><img src="https://bluefin.io/home/logo.svg?nocache=1" width="70" style="vertical-align:middle;"/></a>
 
 - Contributing In building high-end product -> <a href="https://trade.bluefin.io"><img src="https://bluefin.io/images/brands/bluefin-4.svg" width="20" style="vertical-align:middle;"/></a>  decentralized Digital Assets Exchange. Give it a try!
 
